@@ -5,7 +5,7 @@ Video is bigger than 25MB So I uploaded to google drive.
 
 ```
 Different of version 1:
-1.Combine svm and Main(Human pose)
+1.Combine SVM and Main(Human pose)
 2.Added x3 video for demo
 3.Added 3D dataset 
 4.Two function to re-format data
